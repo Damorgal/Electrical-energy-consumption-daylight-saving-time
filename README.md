@@ -4,4 +4,4 @@ We compare confidence intervals of two distributions (daylight-saving time and n
 
 ## Presented Poster
 
-![bpmult_arch](Poster.pdf)
+![post](Poster.pdf)
